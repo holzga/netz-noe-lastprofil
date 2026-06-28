@@ -1,0 +1,9 @@
+# Raw smart-meter exports (private consumption data)
+Jahresverbrauch-2025.csv
+Jahresverbrauch-2026.csv
+
+# Generated output (contains the same private data)
+Lastprofil_export.csv
+
+# macOS
+.DS_Store
